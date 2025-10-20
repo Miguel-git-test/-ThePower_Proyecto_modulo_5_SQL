@@ -1,6 +1,6 @@
 # -ThePower_Proyecto_modulo_5_SQL
 Repositorio con el proyecto de consultas con SQL del apartado 5 de The Power Data Analytics
-# 📘 Proyecto SQL – Consultas BBDD_Proyecto (PostgreSQL)
+# Proyecto SQL – Consultas BBDD_Proyecto (PostgreSQL)
 
 ## Descripción
 Este proyecto contiene una colección de consultas SQL desarrolladas sobre el esquema BBDD_Proyecto.  
@@ -20,7 +20,7 @@ Incluye las 64 consultas de práctica relacionadas con películas, actores, clie
 3. **Verificación y validación**
    - Se han verificado que los resultados de las conbsultas son correctos aunque no se haya indicado cómo se han ido realizando las verificaciones por simplificar el código resultante. Estas verificaciones nos han llvado a darnos cuenta de errores que hubieramos cometido como por ejemplo diferencias entre mayúsculas y minusculas en las restricciones en las clausulas where, o confirmación de conteos correctos por otros métodos.
 
-## ▶️ Cómo ejecutar el proyecto
+## Cómo ejecutar el proyecto
 
 1. Clona o descarga el proyecto: ejecuta las consultas en la base de datos instalada en PostgreSQL
 
